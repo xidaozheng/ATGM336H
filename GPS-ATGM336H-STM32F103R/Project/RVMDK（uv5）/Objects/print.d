@@ -1,0 +1,13 @@
+.\objects\print.o: ..\..\User\Print\print.c
+.\objects\print.o: ..\..\User\Print\print.h
+.\objects\print.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\objects\print.o: ..\..\Libraries\CMSIS\core_cm3.h
+.\objects\print.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\print.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+.\objects\print.o: ..\..\User\stm32f10x_conf.h
+.\objects\print.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\objects\print.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\objects\print.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\objects\print.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\objects\print.o: ..\..\Libraries\FWlib\inc\misc.h
+.\objects\print.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

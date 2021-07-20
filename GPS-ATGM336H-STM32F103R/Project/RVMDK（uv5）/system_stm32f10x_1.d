@@ -1,0 +1,11 @@
+.\system_stm32f10x_1.o: RTE\Device\STM32F103RE\system_stm32f10x.c
+.\system_stm32f10x_1.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\system_stm32f10x_1.o: ..\..\Libraries\CMSIS\core_cm3.h
+.\system_stm32f10x_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\system_stm32f10x_1.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+.\system_stm32f10x_1.o: ..\..\User\stm32f10x_conf.h
+.\system_stm32f10x_1.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\system_stm32f10x_1.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\system_stm32f10x_1.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\system_stm32f10x_1.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\system_stm32f10x_1.o: ..\..\Libraries\FWlib\inc\misc.h

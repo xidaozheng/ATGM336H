@@ -1,0 +1,14 @@
+.\objects\atgm336h.o: ..\..\User\ATGM336H\ATGM336H.c
+.\objects\atgm336h.o: ..\..\User\ATGM336H\ATGM336H.h
+.\objects\atgm336h.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\objects\atgm336h.o: ..\..\Libraries\CMSIS\core_cm3.h
+.\objects\atgm336h.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\atgm336h.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+.\objects\atgm336h.o: ..\..\User\stm32f10x_conf.h
+.\objects\atgm336h.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\objects\atgm336h.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\objects\atgm336h.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\objects\atgm336h.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\objects\atgm336h.o: ..\..\Libraries\FWlib\inc\misc.h
+.\objects\atgm336h.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\atgm336h.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
